@@ -77,3 +77,5 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 }
 */
 ```
+
+Final de la sessión, queda pendiente descarga de bibliotecas
